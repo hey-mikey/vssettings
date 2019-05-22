@@ -1,0 +1,42 @@
+<UserSettings>
+   <ApplicationIdentity version="15.0" />
+   <ToolsOptions>
+      <ToolsOptionsCategory name="Environment" RegisteredName="Environment" />
+   </ToolsOptions>
+   <Category name="Environment_Group" RegisteredName="Environment_Group">
+      <Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+         <PropertyValue name="Version">2</PropertyValue>
+         <FontsAndColors Version="2.0">
+            <Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}" />
+            <Categories>
+               <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="InputMono" FontSize="10" CharSet="1" FontIsDefault="No">
+                  <Items>
+                     <Item Name="Viasfora Rainbow Brace 3" Foreground="0x006ADBB7" Background="0x01000001" BoldFont="No" />
+                     <Item Name="Viasfora Rainbow Brace 4" Foreground="0x00FF66D1" Background="0x01000001" BoldFont="No" />
+                     <Item Name="Viasfora Current Line" Foreground="0x00D3D3D3" Background="0x00003535" BoldFont="No" />
+                     <Item Name="Viasfora Flow Control Keyword" Foreground="0x00FF9F9F" Background="0x01000001" BoldFont="No" />
+                     <Item Name="MarkerFormatDefinition/HighlightedWrittenReference" Foreground="0x00D3C0AD" Background="0x00840D5A" BoldFont="No" />
+                     <Item Name="delegate name" Foreground="0x004B98CB" Background="0x02000000" BoldFont="No" />
+                     <Item Name="enum name" Foreground="0x0056B67C" Background="0x02000000" BoldFont="No" />
+                     <Item Name="module name" Foreground="0x0080952D" Background="0x02000000" BoldFont="No" />
+                     <Item Name="struct name" Foreground="0x00D9977B" Background="0x02000000" BoldFont="No" />
+                     <Item Name="type parameter name" Foreground="0x008EECD9" Background="0x02000000" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.field" Foreground="0x0077A9EC" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.enum-field" Foreground="0x0059C754" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.extension-method" Foreground="0x0073B4B9" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.static-method" Foreground="0x00FCFF93" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.normal-method" Foreground="0x00EAEDCB" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.constructor" Foreground="0x0015B309" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.parameter" Foreground="0x00BC9C83" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.namespace" Foreground="0x0097E697" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.property" Foreground="0x00CEE7EA" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.local" Foreground="0x00CE8D84" Background="0x01000001" BoldFont="No" />
+                     <Item Name="s.semantic-colorizer.type-normal" Foreground="0x00EAC9EF" Background="0x01000001" BoldFont="No" />
+                     <Item Name="CppGlobalVariableSemanticTokenFormat" Foreground="0x00AEAEFF" Background="0x02000000" BoldFont="No" />
+                  </Items>
+               </Category>
+            </Categories>
+         </FontsAndColors>
+      </Category>
+   </Category>
+</UserSettings>
